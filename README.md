@@ -10,6 +10,6 @@ I'm Khodok, a Swiss Student learning Computer Science
 
 -----
 
-<p align="center">
-  <a href="https://khoding.github.io/Khodirect/KhoBlog">Khodok's Blog</a>
-</p>
+[Khodok's Blog]
+
+[Khodok's Blog]:https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
