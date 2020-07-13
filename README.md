@@ -11,5 +11,5 @@ I'm Khodok, a Swiss Student learning Computer Science
 -----
 
 <p align="center">
-  <a href="/Khodirect/KhoBlog">Khodok's Blog</a>
+  <a href="https://khoding.github.io/Khodirect/KhoBlog">Khodok's Blog</a>
 </p>
