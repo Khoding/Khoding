@@ -17,4 +17,9 @@ I'm Khodok, a Swiss Student learning Computer Science
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Friction Logs ! (What is it and first)](https://blog.khodok.xyz/post/friction-logs-what-is-it-and-first/)
+- [Category Update 2.0](https://blog.khodok.xyz/post/category-update-20/)
+- [cssCheck](https://blog.khodok.xyz/post/csscheck/)
+- [Mosquitoes](https://blog.khodok.xyz/post/mosquitoes/)
+- [The Category Update !!!](https://blog.khodok.xyz/post/the-category-update/)
 <!-- BLOG-POST-LIST:END -->
