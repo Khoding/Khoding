@@ -14,7 +14,7 @@ I'm Khodok, a Swiss Student learning Computer Science
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
 
-# Blog posts
+## Khodok's Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
