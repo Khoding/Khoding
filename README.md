@@ -13,11 +13,11 @@ I'm Khodok, a Swiss Student learning Computer Science
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RSS Feed Update !](https://blog.khodok.xyz/post/rss-feed-update/)
-- [RSS Feed Update !](https://blog.khodok.xyz/post/rss-feed-update/)
-- [Friction Logs ! (What is it and first)](https://blog.khodok.xyz/post/friction-logs-what-is-it-and-first/)
-- [Category Update 2.0](https://blog.khodok.xyz/post/category-update-20/)
-- [Category Update 2.0](https://blog.khodok.xyz/post/category-update-20/)
+- [Code Highlight !!!](https://blog.khodok.xyz/post/code-highlight/)
+- [Flutter Day Two](https://blog.khodok.xyz/post/flutter-day-two/)
+- [Flutter](https://blog.khodok.xyz/post/flutter-day-one/)
+- [Last Update done in Holydays (Category Update 4.0)](https://blog.khodok.xyz/post/last-update-done-in-holydays-category-update-40/)
+- [Search Update (Beta 1.45)](https://blog.khodok.xyz/post/search-update-beta-145/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
