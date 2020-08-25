@@ -13,11 +13,11 @@ I'm Khodok, a Swiss Student learning Computer Science
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Jour Cinq Part 3](https://blog.khodok.xyz/post/flutter-jour-cinq-part-3/)
 - [Flutter Jour Cinq Part 2](https://blog.khodok.xyz/post/flutter-jour-cinq-part-2/)
 - [Flutter Jour Cinq Part 1](https://blog.khodok.xyz/post/flutter-jour-cinq-part-1/)
 - [100 Posts !!!](https://blog.khodok.xyz/post/100-posts/)
 - [Dumbest Bug Ever Update](https://blog.khodok.xyz/post/dumbest-bug-ever-update/)
-- [Flutter Jour Quatre Part 3](https://blog.khodok.xyz/post/flutter-jour-quatre-part-3/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
