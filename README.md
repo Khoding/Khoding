@@ -4,12 +4,6 @@ I'm Khodok, a Swiss Student learning Computer Science
 
 ---
 
-[khodok's logo]: https://khodok.xyz/src/img/logos/RuthinkkTooBig.png "Khodok's Logo"
-
-![Khodok's Logo]
-
----
-
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
