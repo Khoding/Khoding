@@ -4,19 +4,15 @@
 
 I'm learning web development, I like dogs, Astronomy and other stuff
 
-Skills: REACT / JS / HTML / CSS / Django / Python
+Skills: HTML / CSS / Django / Python
 
-- 🔭 I’m currently working on https://blog.khodok.xyz 
-- 🌱 I’m currently learning Python, CSS, Typescript, SQL, React 
-- 😄 Pronouns: Khodok 
-- ⚡ Fun fact: Facts are cool 
+- 🔭 I’m currently working on https://blog.khodok.xyz
+- 🌱 I’m currently learning Python, CSS, Typescript, SQL, React
+- 😄 Pronouns: Khodok
+- ⚡ Fun fact: Facts are cool
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Khoding)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://khodok.xyz)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](Khodok#0042)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Khoding)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://khodok.xyz)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Khoding)](https://github.com/ryo-ma/github-profile-trophy)
 
