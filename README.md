@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WTF, a new font ???????](https://blog.khodok.xyz/post/wtf-a-new-font/)
 - [Go to Stable Django Doc](https://blog.khodok.xyz/post/go-to-stable-django-doc/)
 - [Profiles](https://blog.khodok.xyz/post/profiles/)
 - [About the new design](https://blog.khodok.xyz/post/about-the-new-design/)
 - [New Design Day two](https://blog.khodok.xyz/post/new-design-day-two/)
-- [Ok... New design from Zero](https://blog.khodok.xyz/post/ok-new-design-from-zero/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
