@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Profiles updated again](https://blog.khodok.xyz/post/profiles-updated-again/)
 - [Kotlin Fragments](https://blog.khodok.xyz/post/kotlin-fragments/)
 - [A little more adaptive](https://blog.khodok.xyz/post/a-little-more-adaptive/)
 - [Design may change again](https://blog.khodok.xyz/post/design-may-change-again/)
 - [150th post whathype](https://blog.khodok.xyz/post/150th-post-whathype/)
-- [Wednesday, 7 The return of the Mack](https://blog.khodok.xyz/post/wednesday-7-the-return-of-the-mack/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
