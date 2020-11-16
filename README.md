@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ah shit, here we go again with the last change](https://blog.khodok.xyz/post/ah-shit-here-we-go-again-with-the-last-change/)
+- ["Quick" shortened urls](https://blog.khodok.xyz/post/quick-shortened-urls/)
 - [Kotlin 13.11](https://blog.khodok.xyz/post/kotlin-1311/)
 - [Small changes](https://blog.khodok.xyz/post/small-changes/)
 - [Ok so Date formats are terrible....](https://blog.khodok.xyz/post/ok-so-date-formats-are-terrible/)
-- [New About stuff about the design](https://blog.khodok.xyz/post/new-about-stuff-about-the-design/)
-- [First "Future Post" is a Wednesday, my dudes !](https://blog.khodok.xyz/post/first-future-post-is-a-wednesday-my-dudes/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
