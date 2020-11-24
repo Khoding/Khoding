@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Search bar changed](https://blog.khodok.xyz/post/search-bar-changed/)
+- [PP and TOS update lmao](https://blog.khodok.xyz/post/pp-and-tos-update-lmao/)
 - [Wednesday, the first one that was planned a week before](https://blog.khodok.xyz/post/wednesday-first-planned-a-week-before/)
 - [Projects Update](https://blog.khodok.xyz/post/projects-update/)
 - [Ah shit, here we go again with the last change](https://blog.khodok.xyz/post/ah-shit-here-we-go-again-with-the-last-change/)
-- ["Quick" shortened urls](https://blog.khodok.xyz/post/quick-shortened-urls/)
-- [Kotlin 13.11](https://blog.khodok.xyz/post/kotlin-1311/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
