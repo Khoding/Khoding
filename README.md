@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Little fix... took hours](https://blog.khodok.xyz/post/little-fix-took-hours/)
 - [Wednesday, but two weeks after I added future posts...](https://blog.khodok.xyz/post/wednesday-but-two-weeks-after-i-added-future-posts/)
 - [Update of DOOM (jk the only new thing is that featured post got updated)](https://blog.khodok.xyz/post/featured-post-got-updated/)
 - [Search bar changed](https://blog.khodok.xyz/post/search-bar-changed/)
 - [PP and TOS update lmao](https://blog.khodok.xyz/post/pp-and-tos-update-lmao/)
-- [Wednesday, the first one that was planned a week before](https://blog.khodok.xyz/post/wednesday-first-planned-a-week-before/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
