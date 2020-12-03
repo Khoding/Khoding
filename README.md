@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Yesterday and PC](https://blog.khodok.xyz/post/yesterday-and-pc/)
 - [What's left to do end of 2020](https://blog.khodok.xyz/post/whats-left-to-do-end-of-2020/)
 - [New Icons](https://blog.khodok.xyz/post/new-icons/)
 - [Little fix... took hours](https://blog.khodok.xyz/post/little-fix-took-hours/)
 - [Wednesday, but two weeks after I added future posts...](https://blog.khodok.xyz/post/wednesday-but-two-weeks-after-i-added-future-posts/)
-- [Update of DOOM (jk the only new thing is that featured post got updated)](https://blog.khodok.xyz/post/featured-post-got-updated/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
