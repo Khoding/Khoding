@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Waiting for my train until it's 07:29](https://blog.khodok.xyz/post/waiting-for-my-train-until-its-0729/)
 - [It is Wednesday my dudes, week 50 of 2020](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes-week-50-of-2020/)
 - [Comment Update, now needs login](https://blog.khodok.xyz/post/comment-update-now-needs-login/)
 - [Yesterday and PC](https://blog.khodok.xyz/post/yesterday-and-pc/)
 - [What's left to do end of 2020](https://blog.khodok.xyz/post/whats-left-to-do-end-of-2020/)
-- [New Icons](https://blog.khodok.xyz/post/new-icons/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
