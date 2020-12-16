@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday, but it's the 16th of December](https://blog.khodok.xyz/post/example-for-that-mf/)
 - [Post with links Update](https://blog.khodok.xyz/post/post-with-links-update/)
 - [CIE-150 Git  | Linux](https://blog.khodok.xyz/post/cie-150-git-linux/)
 - [Pages Update (not done, just a bit better)](https://blog.khodok.xyz/post/pages-update-not-done-just-a-bit-better/)
 - [Better Requests handling and migration to europe](https://blog.khodok.xyz/post/better-requests-handling-and-migration-to-europe/)
-- [Waiting for my train until it's 07:29](https://blog.khodok.xyz/post/waiting-for-my-train-until-its-0729/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
