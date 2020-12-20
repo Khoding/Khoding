@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Current life](https://blog.khodok.xyz/post/current-life-october-december-2020/)
+- [Read Time Update](https://blog.khodok.xyz/post/read-time-update/)
 - [Bio, Profiles and Other stuff Update](https://blog.khodok.xyz/post/bio-profiles-and-other-stuff-update/)
 - [Small UI Fixes and comments on Profile](https://blog.khodok.xyz/post/small-ui-fixes-and-comments-on-profile/)
 - [Wednesday, but it's the 16th of December](https://blog.khodok.xyz/post/example-for-that-mf/)
-- [Post with links Update](https://blog.khodok.xyz/post/post-with-links-update/)
-- [CIE-150 Git  | Linux](https://blog.khodok.xyz/post/cie-150-git-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
