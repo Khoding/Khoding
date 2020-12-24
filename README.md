@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Titin](https://blog.khodok.xyz/post/titin/)
+- [Post pour l'autre là](https://blog.khodok.xyz/post/post-pour-lautre-la/)
 - [ICT-150 Doc](https://blog.khodok.xyz/post/ict-150-doc/)
 - [Wednesday Exam Edition](https://blog.khodok.xyz/post/wednesday-exam-edition/)
 - [Current life](https://blog.khodok.xyz/post/current-life-october-december-2020/)
-- [Read Time Update](https://blog.khodok.xyz/post/read-time-update/)
-- [Bio, Profiles and Other stuff Update](https://blog.khodok.xyz/post/bio-profiles-and-other-stuff-update/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
