@@ -32,10 +32,10 @@ Skills: HTML / CSS / Django / Python
 
 <!-- BLOG-POST-LIST:START -->
 - [200 Posts !!!](https://blog.khodok.xyz/post/200-posts/)
+- [Comments order fixed (from last update)](https://blog.khodok.xyz/post/comments-order-fixed-from-last-update/)
 - [Another change on comments (not done)](https://blog.khodok.xyz/post/another-change-on-comments-not-done/)
 - [Merry Christmas !](https://blog.khodok.xyz/post/merry-christmas/)
 - [Titin](https://blog.khodok.xyz/post/titin/)
-- [Post pour l'autre là](https://blog.khodok.xyz/post/post-pour-lautre-la/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
