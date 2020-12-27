@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [200 Posts !!!](https://blog.khodok.xyz/post/200-posts/)
 - [Another change on comments (not done)](https://blog.khodok.xyz/post/another-change-on-comments-not-done/)
 - [Merry Christmas !](https://blog.khodok.xyz/post/merry-christmas/)
 - [Titin](https://blog.khodok.xyz/post/titin/)
 - [Post pour l'autre là](https://blog.khodok.xyz/post/post-pour-lautre-la/)
-- [ICT-150 Doc](https://blog.khodok.xyz/post/ict-150-doc/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
