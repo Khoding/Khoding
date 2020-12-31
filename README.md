@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Changing an app name in Django](https://blog.khodok.xyz/post/changing-an-app-name-in-django/)
 - [Wednesday, Just before 2021 Edition](https://blog.khodok.xyz/post/wednesday-just-before-2021-edition/)
 - [200 Posts !!!](https://blog.khodok.xyz/post/200-posts/)
 - [Comments order fixed (from last update)](https://blog.khodok.xyz/post/comments-order-fixed-from-last-update/)
 - [Another change on comments (not done)](https://blog.khodok.xyz/post/another-change-on-comments-not-done/)
-- [Merry Christmas !](https://blog.khodok.xyz/post/merry-christmas/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
