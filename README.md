@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Post images and profile pictures](https://blog.khodok.xyz/post/post-images-and-profile-pictures/)
+- [FlatPages and Pages merged](https://blog.khodok.xyz/post/flatpages-and-pages-merged/)
 - [Happy New Year !!!](https://blog.khodok.xyz/post/happy-new-year/)
 - [One !!!](https://blog.khodok.xyz/post/one/)
 - [Two !!!](https://blog.khodok.xyz/post/two/)
-- [Three !!!](https://blog.khodok.xyz/post/three/)
-- [Changing an app name in Django](https://blog.khodok.xyz/post/changing-an-app-name-in-django/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
