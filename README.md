@@ -12,7 +12,7 @@ Skills: HTML / CSS / Django / Python
 - ⚡ Fun fact: Facts are cool
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Khoding)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://khodok.xyz)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://blog.khodok.xyz)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Khoding)](https://github.com/ryo-ma/github-profile-trophy)
 
