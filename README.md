@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes !](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes-2/)
 - [Comment bug fix](https://blog.khodok.xyz/post/comment-bug-fix/)
 - [It is Wednesday my dudes !](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes/)
 - [The worst (start of) day of 2021, and maybe even 2020](https://blog.khodok.xyz/post/the-worst-start-of-day-of-2021-and-maybe-even-2020/)
 - [Post Slugs Update (we've been there, haven't we ?)](https://blog.khodok.xyz/post/post-slugs-update-weve-been-there-havent-we/)
-- [Wednesday week two of 2021](https://blog.khodok.xyz/post/wednesday-week-two-of-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
