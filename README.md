@@ -31,11 +31,11 @@ Skills: HTML / CSS / Django / Python
 ## [Khodok's Blog] posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 months !](https://blog.khodok.xyz/post/10-months/)
 - [It is Wednesday my dudes ! the first one of February 2021](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes-the-first-one-of-february-2021/)
 - [Bootstrap 5 bug fixes](https://blog.khodok.xyz/post/bootstrap-5-bug-fixes/)
 - [Bootstrap 5](https://blog.khodok.xyz/post/bootstrap-5/)
 - [It is Wednesday my dudes !](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes-2/)
-- [Comment bug fix](https://blog.khodok.xyz/post/comment-bug-fix/)
 <!-- BLOG-POST-LIST:END -->
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
