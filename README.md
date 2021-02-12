@@ -16,7 +16,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -32,7 +32,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -45,19 +45,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### IDRK  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 </div>
 
 </td></tr></table>  
@@ -80,41 +67,29 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=khoding&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Khoding&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-## [Khodok's Blog] posts
-
-<!-- BLOG-POST-LIST:START -->
-- [It is the 105'404th Wednesday since the start of history my dudes !](https://blog.khodok.xyz/post/105404th-wednesday/)
-- [10 months !](https://blog.khodok.xyz/post/10-months/)
-- [It is Wednesday my dudes ! the first one of February 2021](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes-the-first-one-of-february-2021/)
-- [Bootstrap 5 bug fixes](https://blog.khodok.xyz/post/bootstrap-5-bug-fixes/)
-- [Bootstrap 5](https://blog.khodok.xyz/post/bootstrap-5/)
-<!-- BLOG-POST-LIST:END -->
+## [Khodok's Blog] Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=spotrut-j&cover_image=true&theme=default" /></div>  
+<details><div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=spotrut-j&cover_image=true&theme=default" /></div></details>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Khoding&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<div align="center"></div>
 <br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
----
-
 
 [khodok's blog]: https://khoding.github.io/Khodirect/khoBlog "Khodok's Blog"
