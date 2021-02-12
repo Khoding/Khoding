@@ -6,7 +6,7 @@
 ### <div align="center">I'm Khodok, an aspiring web dev</div>  
   
 
-- 🔭 I’m currently working [My Blog](https://github.com/Khoding/khoBlog)  
+- 🔭 I’m currently working on [my Blog](https://github.com/Khoding/khoBlog)  
   
 
 - I’m currently learning Assembly, Python, Rust and JS  
