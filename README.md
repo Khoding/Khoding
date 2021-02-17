@@ -74,11 +74,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is, once again, Wednesday, my dudes !](https://blog.khodok.xyz/post/it-is-once-again-wednesday-my-dudes/)
 - [Change of Design again](https://blog.khodok.xyz/post/change-of-design-again/)
 - [Preparation for future updates and delete comments](https://blog.khodok.xyz/post/preparation-for-future-updates-and-delete-comments/)
 - [It is the 105'404th Wednesday since the start of history my dudes !](https://blog.khodok.xyz/post/105404th-wednesday/)
 - [10 months !](https://blog.khodok.xyz/post/10-months/)
-- [It is Wednesday my dudes ! the first one of February 2021](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes-the-first-one-of-february-2021/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
