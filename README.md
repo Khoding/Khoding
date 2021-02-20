@@ -74,11 +74,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Post Language](https://blog.khodok.xyz/post/post-language/)
 - [It is, once again, Wednesday, my dudes !](https://blog.khodok.xyz/post/it-is-once-again-wednesday-my-dudes/)
 - [Change of Design again](https://blog.khodok.xyz/post/change-of-design-again/)
 - [Preparation for future updates and delete comments](https://blog.khodok.xyz/post/preparation-for-future-updates-and-delete-comments/)
 - [It is the 105'404th Wednesday since the start of history my dudes !](https://blog.khodok.xyz/post/105404th-wednesday/)
-- [10 months !](https://blog.khodok.xyz/post/10-months/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
