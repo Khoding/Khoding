@@ -74,11 +74,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Fixed some Best Practice issues](https://blog.khodok.xyz/post/fixed-some-best-practice-issues/)
 - [Update on posts](https://blog.khodok.xyz/post/update-on-posts/)
 - [It is Wednesday my dudes ! and Idk if this one is special](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes-and-idk-if-this-one-is-special/)
 - [What has to be done](https://blog.khodok.xyz/post/what-has-to-be-done/)
 - [Post Language](https://blog.khodok.xyz/post/post-language/)
-- [It is, once again, Wednesday, my dudes !](https://blog.khodok.xyz/post/it-is-once-again-wednesday-my-dudes/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
