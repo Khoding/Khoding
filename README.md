@@ -74,11 +74,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes (video by a Satellite)](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes-video-by-a-satellite/)
 - [Install an existing Django Webapp on Pythonanywhere.com](https://blog.khodok.xyz/post/install-an-existing-django-webapp-pythonanywhere/)
 - [Fixed some Best Practice issues](https://blog.khodok.xyz/post/fixed-some-best-practice-issues/)
 - [Update on posts](https://blog.khodok.xyz/post/update-on-posts/)
 - [It is Wednesday my dudes ! and Idk if this one is special](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes-and-idk-if-this-one-is-special/)
-- [What has to be done](https://blog.khodok.xyz/post/what-has-to-be-done/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
