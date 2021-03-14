@@ -74,11 +74,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Embed fixed](https://blog.khodok.xyz/post/embed-fixed/)
 - [The top navigation bar changes](https://blog.khodok.xyz/post/the-top-navigation-bar-changes/)
 - [Scrum 426](https://blog.khodok.xyz/post/scrum-426/)
 - [It is the Wednesday of email verification my dudes](https://blog.khodok.xyz/post/it-is-the-wednesday-of-email-verification-my-dudes/)
 - [The heccing featured_cat](https://blog.khodok.xyz/post/the-heccing-featured_cat/)
-- [It is Wednesday my dudes (video by a Satellite)](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes-video-by-a-satellite/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
