@@ -74,11 +74,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Happiness is in the place](https://blog.khodok.xyz/post/happiness-is-in-the-place/)
+- [Last modification bug](https://blog.khodok.xyz/post/last-modification-bug/)
 - [THEMES !!!](https://blog.khodok.xyz/post/themes/)
 - [Small changes on the design](https://blog.khodok.xyz/post/small-changes-on-the-design/)
 - [Embed fixed](https://blog.khodok.xyz/post/embed-fixed/)
-- [The top navigation bar changes](https://blog.khodok.xyz/post/the-top-navigation-bar-changes/)
-- [Scrum 426](https://blog.khodok.xyz/post/scrum-426/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
