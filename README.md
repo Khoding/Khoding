@@ -74,11 +74,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes ! but it's the 6th post](https://blog.khodok.xyz/post/post-6/)
 - [The most Dense of all Updates](https://blog.khodok.xyz/post/the-most-dense-of-all-updates/)
 - [It is Wednesday my dudes, but it's the 23rd post](https://blog.khodok.xyz/post/post-23/)
 - [Happiness is in the place](https://blog.khodok.xyz/post/happiness-is-in-the-place/)
 - [Last modification bug](https://blog.khodok.xyz/post/last-modification-bug/)
-- [THEMES !!!](https://blog.khodok.xyz/post/themes/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
