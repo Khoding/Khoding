@@ -69,6 +69,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Khoding&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Khoding&theme=shades-of-purple)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 <br/>  
 
 
