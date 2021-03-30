@@ -78,11 +78,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Archive Views Update](https://blog.khodok.xyz/post/archive-views-update/)
 - [250 Posts milestone](https://blog.khodok.xyz/post/250-post-milestone/)
 - [Post Series Update](https://blog.khodok.xyz/post/post-series-update/)
 - [Search Release Candidate 1](https://blog.khodok.xyz/post/search-release-candidate-1/)
 - [It is Wednesday my dudes ! but it's the 6th post](https://blog.khodok.xyz/post/post-6/)
-- [The most Dense of all Updates](https://blog.khodok.xyz/post/the-most-dense-of-all-updates/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
