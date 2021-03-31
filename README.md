@@ -78,11 +78,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes ! but it's the 25th post](https://blog.khodok.xyz/post/post-25/)
 - [Archive Views Update](https://blog.khodok.xyz/post/archive-views-update/)
 - [250 Posts milestone](https://blog.khodok.xyz/post/250-post-milestone/)
 - [Post Series Update](https://blog.khodok.xyz/post/post-series-update/)
 - [Search Release Candidate 1](https://blog.khodok.xyz/post/search-release-candidate-1/)
-- [It is Wednesday my dudes ! but it's the 6th post](https://blog.khodok.xyz/post/post-6/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
