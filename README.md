@@ -78,11 +78,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Todo (Task) list](https://blog.khodok.xyz/post/todo-task-list/)
 - [Website was down a while](https://blog.khodok.xyz/post/website-was-down-a-while/)
 - [A good ol' bug fix session](https://blog.khodok.xyz/post/a-good-ol-bug-fix-session/)
 - [More Songs Lyrics](https://blog.khodok.xyz/post/more-songs-lyrics/)
 - [It is Wednesday my dudes ! but it's the 25th post](https://blog.khodok.xyz/post/post-25/)
-- [Archive Views Update](https://blog.khodok.xyz/post/archive-views-update/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
