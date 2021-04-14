@@ -78,11 +78,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Following code changes for the better](https://blog.khodok.xyz/post/following-code-changes-for-the-better/)
 - [It is Wednesday my dudes ! but it's the 26th post](https://blog.khodok.xyz/post/post-26/)
 - [ONE YEAR](https://blog.khodok.xyz/post/one-year/)
 - [Todo (Task) list](https://blog.khodok.xyz/post/todo-task-list/)
 - [Website was down a while](https://blog.khodok.xyz/post/website-was-down-a-while/)
-- [A good ol' bug fix session](https://blog.khodok.xyz/post/a-good-ol-bug-fix-session/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
