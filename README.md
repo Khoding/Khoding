@@ -78,11 +78,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Posts are now better ! (not fully done though)](https://blog.khodok.xyz/post/posts-are-now-better-not-fully-done-though/)
 - [It is Wednesday my dudes ! but it's the 28th post](https://blog.khodok.xyz/post/post-28/)
 - [Following code changes for the better](https://blog.khodok.xyz/post/following-code-changes-for-the-better/)
 - [It is Wednesday my dudes ! but it's the 26th post](https://blog.khodok.xyz/post/post-26/)
 - [ONE YEAR](https://blog.khodok.xyz/post/one-year/)
-- [Todo (Task) list](https://blog.khodok.xyz/post/todo-task-list/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
