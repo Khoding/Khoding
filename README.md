@@ -78,11 +78,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Tags updated](https://blog.khodok.xyz/post/tags-updated/)
 - [Scrum Product Owner théorie 426](https://blog.khodok.xyz/post/scrum-product-owner-theorie-426/)
 - [It is Wednesday my dudes ! but it's the 46th post](https://blog.khodok.xyz/post/post-46/)
 - [Tags Update (yet another way to identify posts)](https://blog.khodok.xyz/post/tags-update-yet-another-way-to-identify-posts/)
 - [Posts are now better ! (not fully done though)](https://blog.khodok.xyz/post/posts-are-now-better-not-fully-done-though/)
-- [It is Wednesday my dudes ! but it's the 28th post](https://blog.khodok.xyz/post/post-28/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
