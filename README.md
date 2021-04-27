@@ -78,11 +78,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Videos in posts bug fix](https://blog.khodok.xyz/post/videos-in-posts-bug-fix/)
 - [Setup Extraterm Tutorial](https://blog.khodok.xyz/post/setup-extraterm-tutorial/)
 - [Tags updated](https://blog.khodok.xyz/post/tags-updated/)
 - [Scrum Product Owner théorie 426](https://blog.khodok.xyz/post/scrum-product-owner-theorie-426/)
 - [It is Wednesday my dudes ! but it's the 46th post](https://blog.khodok.xyz/post/post-46/)
-- [Tags Update (yet another way to identify posts)](https://blog.khodok.xyz/post/tags-update-yet-another-way-to-identify-posts/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
