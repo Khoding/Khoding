@@ -78,11 +78,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [History Update](https://blog.khodok.xyz/post/history-update/)
 - [It is Wednesday my dudes ! but it's the 29th post](https://blog.khodok.xyz/post/post-29/)
 - [Search in Tags](https://blog.khodok.xyz/post/search-in-tags/)
 - [Videos in posts bug fix](https://blog.khodok.xyz/post/videos-in-posts-bug-fix/)
 - [Setup Extraterm Tutorial](https://blog.khodok.xyz/post/setup-extraterm-tutorial/)
-- [Tags updated](https://blog.khodok.xyz/post/tags-updated/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
