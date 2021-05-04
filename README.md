@@ -78,11 +78,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [May the 4th be with you](https://blog.khodok.xyz/post/may-the-4th-be-with-you/)
 - [Le Sprint Scrum 426](https://blog.khodok.xyz/post/le-sprint-scrum-426/)
 - [History Update](https://blog.khodok.xyz/post/history-update/)
 - [It is Wednesday my dudes ! but it's the 29th post](https://blog.khodok.xyz/post/post-29/)
 - [Search in Tags](https://blog.khodok.xyz/post/search-in-tags/)
-- [Videos in posts bug fix](https://blog.khodok.xyz/post/videos-in-posts-bug-fix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
