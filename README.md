@@ -78,11 +78,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Comments updated again](https://blog.khodok.xyz/post/comments-updated-again/)
 - [Lmao](https://blog.khodok.xyz/post/lmao/)
 - [Fixed date formats (Idk when it broke)](https://blog.khodok.xyz/post/fixed-date-formats-idk-when-it-broke/)
 - [It is Wednesday my dudes ! but it's the 30th post AND MY BIRTHDAY](https://blog.khodok.xyz/post/post-30/)
 - [Efficient Day Update](https://blog.khodok.xyz/post/efficient-day-update/)
-- [May the 4th be with you](https://blog.khodok.xyz/post/may-the-4th-be-with-you/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
