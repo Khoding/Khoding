@@ -73,11 +73,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes ! but it's the 31st post](https://blog.khodok.xyz/post/post-31/)
+- [69 days of commits](https://blog.khodok.xyz/post/69-days-of-commits/)
 - [Optimization](https://blog.khodok.xyz/post/optimization/)
 - [Comments updated again](https://blog.khodok.xyz/post/comments-updated-again/)
 - [Lmao](https://blog.khodok.xyz/post/lmao/)
-- [Fixed date formats (Idk when it broke)](https://blog.khodok.xyz/post/fixed-date-formats-idk-when-it-broke/)
-- [It is Wednesday my dudes ! but it's the 30th post AND MY BIRTHDAY](https://blog.khodok.xyz/post/post-30/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
