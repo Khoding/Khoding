@@ -73,11 +73,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Breadcrumbs Update !](https://blog.khodok.xyz/post/breadcrumbs-update/)
 - [It is Wednesday my dudes ! but it's the 41st post](https://blog.khodok.xyz/post/post-41/)
 - [Forms are changing and current page](https://blog.khodok.xyz/post/forms-are-changing-and-current-page/)
 - [It is Wednesday my dudes ! but it's the 31st post](https://blog.khodok.xyz/post/post-31/)
 - [69 days of commits](https://blog.khodok.xyz/post/69-days-of-commits/)
-- [Optimization](https://blog.khodok.xyz/post/optimization/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
