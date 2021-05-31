@@ -73,11 +73,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [This is Outstanding... I FINALLY managed to get Featured Categories to work ! oh and Sub Categories](https://blog.khodok.xyz/post/this-is-outstanding-i-finally-managed-to-get-featured-categories-to-work-oh-and-sub-categories/)
 - [Edit comments is back](https://blog.khodok.xyz/post/edit-comments-is-back/)
 - [Updated Forms a bit more](https://blog.khodok.xyz/post/updated-forms-a-bit-more/)
 - [It is Wednesday my dudes ! but it's the 62nd post](https://blog.khodok.xyz/post/post-62/)
 - [Comments (They've been updated once more)](https://blog.khodok.xyz/post/comments-theyve-been-updated-once-more/)
-- [Breadcrumbs Update !](https://blog.khodok.xyz/post/breadcrumbs-update/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
