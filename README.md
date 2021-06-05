@@ -73,11 +73,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Templates Inheritance getting better](https://blog.khodok.xyz/post/templates-inheritance-getting-better/)
 - [It is Wednesday my dudes ! but it's the 63rd post](https://blog.khodok.xyz/post/post-63/)
 - [Use Khodok's Blog for yourself](https://blog.khodok.xyz/post/use-khodoks-blog-for-yourself/)
 - [This is Outstanding... I FINALLY managed to get Featured Categories to work ! oh and Sub Categories](https://blog.khodok.xyz/post/this-is-outstanding-i-finally-managed-to-get-featured-categories-to-work-oh-and-sub-categories/)
 - [Edit comments is back](https://blog.khodok.xyz/post/edit-comments-is-back/)
-- [Updated Forms a bit more](https://blog.khodok.xyz/post/updated-forms-a-bit-more/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
