@@ -73,11 +73,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Comments replies](https://blog.khodok.xyz/post/comments-replies/)
 - [It is Wednesday my dudes ! but it's the 71st post](https://blog.khodok.xyz/post/post-71/)
 - [Things to do (one more time)](https://blog.khodok.xyz/post/things-to-do-one-more-time/)
 - [Android app ?](https://blog.khodok.xyz/post/android-app/)
 - [Templates Inheritance getting better](https://blog.khodok.xyz/post/templates-inheritance-getting-better/)
-- [It is Wednesday my dudes ! but it's the 63rd post](https://blog.khodok.xyz/post/post-63/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
