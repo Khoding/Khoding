@@ -73,11 +73,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Android App Update (soon available)](https://blog.khodok.xyz/post/android-app-update-soon-available/)
 - [It is Wednesday my dudes ! but it's the 73rd post](https://blog.khodok.xyz/post/post-73/)
 - [Comments replies](https://blog.khodok.xyz/post/comments-replies/)
 - [It is Wednesday my dudes ! but it's the 71st post](https://blog.khodok.xyz/post/post-71/)
 - [Things to do (one more time)](https://blog.khodok.xyz/post/things-to-do-one-more-time/)
-- [Android app ?](https://blog.khodok.xyz/post/android-app/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
