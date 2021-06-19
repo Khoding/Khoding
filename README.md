@@ -73,7 +73,7 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
-- [The Anrdoid app is Live !](https://blog.khodok.xyz/post/the-anrdoid-app-is-live/)
+- [The Android app is Live !](https://blog.khodok.xyz/post/the-android-app-is-live/)
 - [Android App Update (soon available)](https://blog.khodok.xyz/post/android-app-update-soon-available/)
 - [It is Wednesday my dudes ! but it's the 73rd post](https://blog.khodok.xyz/post/post-73/)
 - [Comments replies](https://blog.khodok.xyz/post/comments-replies/)
