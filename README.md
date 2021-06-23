@@ -64,11 +64,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes ! but it's the 230th post](https://blog.khodok.xyz/post/post-230/)
 - [The Android app is Live !](https://blog.khodok.xyz/post/the-android-app-is-live/)
 - [Android App Update (soon available)](https://blog.khodok.xyz/post/android-app-update-soon-available/)
 - [It is Wednesday my dudes ! but it's the 73rd post](https://blog.khodok.xyz/post/post-73/)
 - [Comments replies](https://blog.khodok.xyz/post/comments-replies/)
-- [It is Wednesday my dudes ! but it's the 71st post](https://blog.khodok.xyz/post/post-71/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
