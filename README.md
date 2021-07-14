@@ -64,11 +64,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes ! but it's the 292nd post](https://blog.khodok.xyz/post/post-292/)
 - [Welp, I lost my 124 days Commits Streak today](https://blog.khodok.xyz/post/welp-i-lost-my-124-days-commits-streak-today/)
 - [It is Wednesday my dudes ! but it's the 291st post](https://blog.khodok.xyz/post/post-291st/)
 - [It is Wednesday my dudes ! but it's the 290th post](https://blog.khodok.xyz/post/post-290/)
 - [Michael Joe Jackson 2](https://blog.khodok.xyz/post/michael-joe-jackson-2/)
-- [Certificate in Advanced English](https://blog.khodok.xyz/post/certificate-in-advanced-english/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
