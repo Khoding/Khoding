@@ -64,11 +64,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Slugs Updated again, Fixed some things, Version 0.5.0-0](https://blog.khodok.xyz/post/slugs-updated-again-fixed-some-things-version-050-0/)
 - [It is Wednesday my dudes ! but it's the 296th post](https://blog.khodok.xyz/post/post-296/)
 - [Bootstrap 5.1.0 and a relatively old bug fixed](https://blog.khodok.xyz/post/bootstrap-510-and-a-relatively-old-bug-fixed/)
 - [It is Wednesday my dudes ! but it's the 295th post](https://blog.khodok.xyz/post/post-295/)
 - [It is Wednesday my dudes ! but it's the 294th post](https://blog.khodok.xyz/post/post-294/)
-- [It is Wednesday my dudes ! but it's the 293rd post](https://blog.khodok.xyz/post/post-293/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
