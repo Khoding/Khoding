@@ -64,11 +64,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Big unnoticed list bug fixed](https://blog.khodok.xyz/post/big-unnoticed-list-bug-fixed/)
 - [It is Wednesday my dudes !](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes-3/)
 - [App Title Update](https://blog.khodok.xyz/post/app-title-update/)
 - [It is Wednesday my dudes ! But it's the first cloned Post](https://blog.khodok.xyz/post/it-is-wednesday-my-dudes-but-its-the-first-cloned-post/)
 - [Slugs Updated again, Fixed some things, Version 0.5.0-0](https://blog.khodok.xyz/post/slugs-updated-again-fixed-some-things-version-050-0/)
-- [It is Wednesday my dudes ! but it's the 296th post](https://blog.khodok.xyz/post/post-296/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
