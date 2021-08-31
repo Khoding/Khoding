@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Github Connection](https://www.khodok.xyz/post/github-connection/)
 - [Changed the subdomain !](https://www.khodok.xyz/post/changed-the-subdomain/)
 - [Big unnoticed list bug fixed](https://www.khodok.xyz/post/big-unnoticed-list-bug-fixed/)
 - [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-3/)
 - [App Title Update](https://www.khodok.xyz/post/app-title-update/)
-- [It is Wednesday my dudes ! But it's the first cloned Post](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-but-its-the-first-cloned-post/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
