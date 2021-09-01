@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Apostrophe Correct Use](https://www.khodok.xyz/post/apostrophe-correct-use/)
 - [Weblog using Django's Website's weblog system](https://www.khodok.xyz/post/weblog-using-djangos-websites-weblog-system/)
 - [It is the first Wednesday on the new subdomain my dudes !](https://www.khodok.xyz/post/it-is-the-first-wednesday-on-the-new-subdomain-my-dudes/)
 - [Github Connection](https://www.khodok.xyz/post/github-connection/)
 - [Changed the subdomain !](https://www.khodok.xyz/post/changed-the-subdomain/)
-- [Big unnoticed list bug fixed](https://www.khodok.xyz/post/big-unnoticed-list-bug-fixed/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
