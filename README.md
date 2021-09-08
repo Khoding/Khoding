@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-5/)
 - [FINALLY added password reset](https://www.khodok.xyz/post/finally-added-password-reset/)
 - [Github Connection new stuff](https://www.khodok.xyz/post/github-connection-new-stuff/)
 - [Apostrophe Correct Use](https://www.khodok.xyz/post/apostrophe-correct-use/)
 - [Weblog using Django's Website's weblog system](https://www.khodok.xyz/post/weblog-using-djangos-websites-weblog-system/)
-- [It is the first Wednesday on the new subdomain my dudes !](https://www.khodok.xyz/post/it-is-the-first-wednesday-on-the-new-subdomain-my-dudes/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
