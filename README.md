@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Previous and Next buttons finally working properly :D](https://www.khodok.xyz/post/previous-and-next-buttons-finally-working-properly-d/)
 - [Some changes (some hopefully temporary), also used a tool to find more important bugs](https://www.khodok.xyz/post/some-changes-some-hopefully-temporary-also-used-a-tool-to-find-more-important-bugs/)
 - [9-10-21](https://www.khodok.xyz/post/9-10-21/)
 - [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-5/)
 - [FINALLY added password reset](https://www.khodok.xyz/post/finally-added-password-reset/)
-- [Github Connection new stuff](https://www.khodok.xyz/post/github-connection-new-stuff/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
