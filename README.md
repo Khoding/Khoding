@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes ! but it's the 318th post](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-but-its-the-318th-post/)
 - [A few changes on Weblog view](https://www.khodok.xyz/post/a-few-changes-on-weblog-view/)
 - [Previous and Next buttons finally working properly :D](https://www.khodok.xyz/post/previous-and-next-buttons-finally-working-properly-d/)
 - [Some changes (some hopefully temporary), also used a tool to find more important bugs](https://www.khodok.xyz/post/some-changes-some-hopefully-temporary-also-used-a-tool-to-find-more-important-bugs/)
 - [9-10-21](https://www.khodok.xyz/post/9-10-21/)
-- [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-5/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
