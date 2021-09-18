@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Comment replies are back](https://www.khodok.xyz/post/comment-replies-are-back/)
 - [A few updates on the design of Markdown elements in posts](https://www.khodok.xyz/post/a-few-updates-on-the-design-of-markdown-elements-in-posts/)
 - [It is Wednesday my dudes ! but it's the 318th post](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-but-its-the-318th-post/)
 - [A few changes on Weblog view](https://www.khodok.xyz/post/a-few-changes-on-weblog-view/)
 - [Previous and Next buttons finally working properly :D](https://www.khodok.xyz/post/previous-and-next-buttons-finally-working-properly-d/)
-- [Some changes (some hopefully temporary), also used a tool to find more important bugs](https://www.khodok.xyz/post/some-changes-some-hopefully-temporary-also-used-a-tool-to-find-more-important-bugs/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
