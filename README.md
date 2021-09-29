@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-6/)
 - [Testing this new thing I added, EditorJS](https://www.khodok.xyz/post/testing-this-new-thing-i-added-editorjs/)
 - [333rd Post !](https://www.khodok.xyz/post/333rd-post/)
 - [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-4/)
 - [So this one is great... Comments just received their last (hopefully) HUGE rework, and other things](https://www.khodok.xyz/post/so-this-one-is-great-comments-just-received-their-last-hopefully-huge-rework-and-other-things/)
-- [So that's outstanding !](https://www.khodok.xyz/post/so-thats-outstanding/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
