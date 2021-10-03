@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [I'm testing something so don't mind this](https://www.khodok.xyz/post/im-testing-something-so-dont-mind-this/)
 - [Navbar offset bug fix](https://www.khodok.xyz/post/navbar-offset-bug-fix/)
 - [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-6/)
 - [Testing this new thing I added, EditorJS](https://www.khodok.xyz/post/testing-this-new-thing-i-added-editorjs/)
 - [333rd Post !](https://www.khodok.xyz/post/333rd-post/)
-- [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-4/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
