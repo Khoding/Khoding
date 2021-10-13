@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-8/)
 - [Khodok's Facts Update](https://www.khodok.xyz/post/khodoks-facts-update/)
 - [Why am I called Khodok ?](https://www.khodok.xyz/post/why-am-i-called-khodok/)
 - [9/10/21](https://www.khodok.xyz/post/91021s/)
 - [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-7/)
-- [I'm testing something so don't mind this](https://www.khodok.xyz/post/im-testing-something-so-dont-mind-this/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
