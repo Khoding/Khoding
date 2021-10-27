@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-10/)
 - [Tailwind, Projects, end of autumn holidays recap](https://www.khodok.xyz/post/tailwind-projects-end-of-autumn-holidays-recap/)
 - [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-9/)
 - [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-8/)
 - [Khodok's Facts Update](https://www.khodok.xyz/post/khodoks-facts-update/)
-- [Why am I called Khodok ?](https://www.khodok.xyz/post/why-am-i-called-khodok/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
