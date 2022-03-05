@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Dark Mode in the Tailwind theme that&#39;s in the making](https://www.khodok.xyz/post/dark-mode-in-the-tailwind-theme-thats-in-the-making/)
 - [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-28/)
 - [Updated to Django 4.0](https://www.khodok.xyz/post/updated-to-django-40/)
 - [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-27/)
 - [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-26/)
-- [It is Wednesday my dudes !](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-25/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
