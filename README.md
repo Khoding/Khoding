@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [TWO YEARS](https://www.khodok.xyz/post/two-years/)
 - [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-33/)
 - [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-32/)
 - [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-31/)
 - [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-30/)
-- [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-29/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
