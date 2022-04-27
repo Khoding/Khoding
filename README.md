@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-36/)
 - [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-35/)
 - [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-34/)
 - [Tailwind Design &quot;Done&quot;](https://www.khodok.xyz/post/tailwind-design-done/)
 - [TWO YEARS](https://www.khodok.xyz/post/two-years/)
-- [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-33/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
