@@ -63,7 +63,7 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
-- [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-37/)
+- [It is Wednesday my dudes! Star Wars Day Edition](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-star-wars-day-edition/)
 - [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-36/)
 - [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-35/)
 - [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-34/)
