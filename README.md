@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-38/)
 - [Color scheme switch](https://www.khodok.xyz/post/color-scheme-switch/)
 - [Latest changes view, plenty of other changes](https://www.khodok.xyz/post/latest-changes-view-plenty-of-other-changes/)
 - [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-37/)
 - [It&#39;s my birthday!](https://www.khodok.xyz/post/its-my-birthday-2/)
-- [It is Wednesday my dudes! Star Wars Day Edition](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-star-wars-day-edition/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
