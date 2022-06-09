@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [my Blog](https://github.com/Khoding/khoBlog)  
 
 
-- I’m currently learning Python, C, Rust and JS  
+- I’m currently learning and using Django, Python, Typescript and React
 
 
 <br/>  
