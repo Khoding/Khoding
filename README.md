@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Michael Joseph Jackson 13 years](https://www.khodok.xyz/post/michael-joseph-jackson-3/)
 - [End of an era, there&#39;s one less language used on this website](https://www.khodok.xyz/post/end-of-an-era-theres-one-less-language-used-on-this-website/)
 - [It is Thursday my dudes!](https://www.khodok.xyz/post/it-is-thursday-my-dudes/)
 - [Most code errors fixed](https://www.khodok.xyz/post/most-code-errors-fixed/)
 - [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-42/)
-- [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-41/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
