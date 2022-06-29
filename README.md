@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-43/)
 - [Post is outdated](https://www.khodok.xyz/post/post-is-outdated/)
 - [CFC &lpar;Certificat Fédéral de Capacité&rpar;](https://www.khodok.xyz/post/cfc-certificat-federal-de-capacite/)
 - [KhoBlog Progressive Web App](https://www.khodok.xyz/post/khoblog-progressive-web-app/)
 - [Michael Joseph Jackson 13 years](https://www.khodok.xyz/post/michael-joseph-jackson-3/)
-- [End of an era, there&#39;s one less language used on this website](https://www.khodok.xyz/post/end-of-an-era-theres-one-less-language-used-on-this-website/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
