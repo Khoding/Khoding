@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Test of all Admonitions](https://www.khodok.xyz/post/test-of-all-admonitions/)
 - [400 Posts Milestone](https://www.khodok.xyz/post/400-posts-milestone/)
 - [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-43/)
 - [Post is outdated](https://www.khodok.xyz/post/post-is-outdated/)
 - [CFC &lpar;Certificat Fédéral de Capacité&rpar;](https://www.khodok.xyz/post/cfc-certificat-federal-de-capacite/)
-- [KhoBlog Progressive Web App](https://www.khodok.xyz/post/khoblog-progressive-web-app/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
