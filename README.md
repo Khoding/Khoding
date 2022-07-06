@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [My Computer Science diploma](https://www.khodok.xyz/post/my-computer-science-diploma/)
 - [It is Wednesday my dudes! I&#39;m getting my diploma in a few hours from the publication time](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-im-getting-my-diploma-in-a-few-hours-from-the-publication-time/)
 - [Sticky nav bar, and sacrilege](https://www.khodok.xyz/post/sticky-nav-bar-and-sacrilege/)
 - [Test of all Admonitions](https://www.khodok.xyz/post/test-of-all-admonitions/)
 - [400 Posts Milestone](https://www.khodok.xyz/post/400-posts-milestone/)
-- [It is Wednesday my dudes!](https://www.khodok.xyz/post/it-is-wednesday-my-dudes-43/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
