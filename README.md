@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate Tic Tac Toe](https://www.khodok.com/post/ultimate-tic-tac-toe/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-46/)
 - [New TLD!](https://www.khodok.com/post/new-tld/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-45/)
 - [My Computer Science diploma](https://www.khodok.com/post/my-computer-science-diploma/)
-- [It is Wednesday my dudes! I&#39;m getting my diploma in a few hours from the publication time](https://www.khodok.com/post/it-is-wednesday-my-dudes-im-getting-my-diploma-in-a-few-hours-from-the-publication-time/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
