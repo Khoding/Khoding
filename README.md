@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-44/)
 - [Has Code tag](https://www.khodok.com/post/has-code-tag/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-47/)
 - [Ultimate Tic Tac Toe](https://www.khodok.com/post/ultimate-tic-tac-toe/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-46/)
-- [New TLD!](https://www.khodok.com/post/new-tld/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
