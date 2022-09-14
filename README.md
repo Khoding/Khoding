@@ -64,7 +64,7 @@
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Over a year of commits](https://www.khodok.com/post/over-a-year-of-commits/)
-- [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-52/)
+- [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-53/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-51/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-50/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-49/)
