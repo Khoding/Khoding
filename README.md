@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-55/)
 - [420 Posts](https://www.khodok.com/post/420-posts/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-54/)
 - [Python 3.10](https://www.khodok.com/post/python-310/)
 - [Redirection that works](https://www.khodok.com/post/redirection-that-works/)
-- [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-52/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
