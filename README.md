@@ -63,11 +63,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Vanity URLs for Posts](https://www.khodok.com/post/vanity-urls-for-posts/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-56/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-55/)
 - [420 Posts](https://www.khodok.com/post/420-posts/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-54/)
-- [Python 3.10](https://www.khodok.com/post/python-310/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
