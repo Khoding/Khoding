@@ -60,7 +60,7 @@
 
 <br/>  
 
-<a href="https://app.daily.dev/Khodok"><img src="https://api.daily.dev/devcards/a60e81eb073b4db3a6fd320174a3ae24.png?r=8ea" width="400" alt="Julien Rutscho's Dev Card"/></a>
+<div align="center"><a href="https://app.daily.dev/Khodok"><img src="https://api.daily.dev/devcards/a60e81eb073b4db3a6fd320174a3ae24.png?r=8ea" width="400" alt="Julien Rutscho's Dev Card"/></a></div>
 
 <br/>
 
