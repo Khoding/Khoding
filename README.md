@@ -1,4 +1,4 @@
-### <div align="center">I'm Khodok, an aspiring web dev</div>  
+### <div align="center">I'm Khodok, web dev</div>  
 
 
 - 🔭 I’m currently working on [my Blog](https://github.com/Khoding/khoBlog)  
