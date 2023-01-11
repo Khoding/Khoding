@@ -62,11 +62,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-68/)
 - [First Wednesday of 2023!](https://www.khodok.com/post/first-wednesday-of-2023/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-67/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-66/)
 - [Es ist Mittwoch, meine Freunde!](https://www.khodok.com/post/es-ist-mittwoch-meine-freunde/)
-- [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-65/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
