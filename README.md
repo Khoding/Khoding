@@ -85,11 +85,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-72/)
 - [Where are Wednesday posts?](https://www.khodok.com/post/where-are-wednesday-posts/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-71/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-70/)
 - [It is Wednesday my dudes! It&#39;s the 69th with the same slug](https://www.khodok.com/post/it-is-wednesday-my-dudes-69/)
-- [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-68/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
