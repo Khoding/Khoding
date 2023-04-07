@@ -70,11 +70,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [THREE YEARS](https://www.khodok.com/post/three-years/)
 - [Wednesday, The Netherlands edition!](https://www.khodok.com/post/wednesday-the-netherlands-edition/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-79/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-78/)
 - [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-77/)
-- [It is Wednesday my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-76/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
