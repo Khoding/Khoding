@@ -70,11 +70,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Michael Joseph Jackson 14 years](https://www.khodok.com/post/michael-joseph-jackson-14-years/)
 - [Es ist Mittwoch, meine Freunde! Zweite Deutschprüfung, heute](https://www.khodok.com/post/es-ist-mittwoch-meine-freunde-zweite-deutschprufung-heute/)
 - [Kafka - Die Verwandlung](https://www.khodok.com/post/kafka-die-verwandlung/)
 - [Tab Movement](https://www.khodok.com/post/tab-movement/)
 - [Auto Table of Content](https://www.khodok.com/post/auto-table-of-content/)
-- [Es ist Mittwoch, meine Freunde! Erste Deutschprüfung, heute](https://www.khodok.com/post/es-ist-mittwoch-meine-freunde-erste-deutsche-deutschprufung-heute/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
