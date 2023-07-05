@@ -70,11 +70,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday, my dudes! Forgot 2](https://www.khodok.com/post/it-is-wednesday-my-dudes-forgot-2/)
+- [It is Wednesday, my dudes! Forgot 1](https://www.khodok.com/post/it-is-wednesday-my-dudes-forgot-1/)
 - [Michael Joseph Jackson 14 years](https://www.khodok.com/post/michael-joseph-jackson-14-years/)
 - [Es ist Mittwoch, meine Freunde! Zweite Deutschprüfung, heute](https://www.khodok.com/post/es-ist-mittwoch-meine-freunde-zweite-deutschprufung-heute/)
 - [Kafka - Die Verwandlung](https://www.khodok.com/post/kafka-die-verwandlung/)
-- [Tab Movement](https://www.khodok.com/post/tab-movement/)
-- [Auto Table of Content](https://www.khodok.com/post/auto-table-of-content/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
