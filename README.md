@@ -70,11 +70,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-91/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-90/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-89/)
 - [It is Wednesday, my dudes! Forgot 2](https://www.khodok.com/post/it-is-wednesday-my-dudes-forgot-2/)
 - [It is Wednesday, my dudes! Forgot 1](https://www.khodok.com/post/it-is-wednesday-my-dudes-forgot-1/)
-- [Michael Joseph Jackson 14 years](https://www.khodok.com/post/michael-joseph-jackson-14-years/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
