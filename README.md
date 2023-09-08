@@ -70,11 +70,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-97/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-96/)
 - [It is Wednesday, my dudes! Ahsoka Episode 1 edition](https://www.khodok.com/post/it-is-wednesday-my-dudes-95/)
 - [The History of Ruthinkk &lpar;my logo&rpar;](https://www.khodok.com/post/the-history-of-ruthinkk-my-logo/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-94/)
-- [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-93/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
