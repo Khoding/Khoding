@@ -70,11 +70,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-120/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-119/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-118/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-117/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-116/)
-- [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-115/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
