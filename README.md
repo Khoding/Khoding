@@ -70,11 +70,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Twitch Custom Styles](https://www.khodok.com/post/twitch-custom-styles/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-155/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-154/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-153/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-152/)
-- [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-151/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
