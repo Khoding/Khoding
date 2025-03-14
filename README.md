@@ -62,11 +62,11 @@
 
 ## [Khodok's Blog] Posts  
 <!-- BLOG-POST-LIST:START -->
+- [StackOverflow custom styles](https://www.khodok.com/post/stackoverflow-custom-styles/)
 - [It is the last Wednesday, my dudes!](https://www.khodok.com/post/it-is-the-last-wednesday-my-dudes/)
 - [Twitch Custom Styles](https://www.khodok.com/post/twitch-custom-styles/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-155/)
 - [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-154/)
-- [It is Wednesday, my dudes!](https://www.khodok.com/post/it-is-wednesday-my-dudes-153/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
