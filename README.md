@@ -60,10 +60,6 @@
 
 <br/>  
 
-<details><div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=spotrut-j&cover_image=true&theme=default" /></div></details>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Khoding&&style=flat-square" align="center" />
 </div>  
