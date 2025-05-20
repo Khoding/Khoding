@@ -1,8 +1,8 @@
 ### <div align="center">I'm Khodok, web dev</div>  
 
 
-- 🔭 I’m currently working on [my Blog](https://github.com/Khoding/khoBlog)  
-
+- 🔭 I’m no longer working on [my blog](https://github.com/Khoding/khoBlog) 😭  
+- 🔭 I am however working on various side projects, mostly closed source.
 
 - I’m currently using Vue and CSS (yes I love CSS)
 
